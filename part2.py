@@ -1,0 +1,1 @@
+print("Your are targetting " + input("what is the taget ip? "))
