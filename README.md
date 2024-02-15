@@ -17,20 +17,19 @@ Resources: Additional resources and references to deepen your understanding.
 Documentation: Detailed documentation to guide you through each code snippet and project.
 
 ### 📺 YouTube Channel:
-Subscribe to our YouTube channel to follow along with video tutorials and demonstrations of these codes in action!
-
+Subscribe to our YouTube channel to follow along with video tutorials and demonstrations of these codes in action! <br>
 https://youtu.be/z9vZ-bxbvzY?si=aFI9ovsuKpry60fT
 
 ### 🔗 Related Links:
 
-Follow us on Twitter: https://x.com/amirhos_amiran
+Follow us on Twitter: https://x.com/amirhos_amiran <br>
 Visit our website: https://amirooo.net
 
 ### 🤝 Contributing:
 Feel free to contribute to this repository by submitting pull requests with improvements, additional code examples, or bug fixes. Your contributions are greatly appreciated!
 
 ### 📝 License:
-This project is licensed under the [License Name] License - see the LICENSE file for details.
+This project is licensed under the GNU License - see the LICENSE file for details.
 
 ### 📧 Contact:
 For any questions, feedback, or collaborations, please reach out to amiran.amirhossein@gmail.com.
